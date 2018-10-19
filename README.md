@@ -8,7 +8,3 @@
 * [Tutorial_4 Linear Regression](http://nbviewer.jupyter.org/github/OpenChemE/Tutorials-2018W2/blob/master/Notebooks/Tutorial%204/Tutorial_4%20Linear%20Regression.ipynb)
 
 
-# Tutorial 5
-* [Ordinary Differential Equations](http://nbviewer.jupyter.org/github/OpenChemE/Tutorials-2018W2/blob/master/Notebooks/Tutorial%205/Ordinary%20Differential%20Equations.ipynb)
-
-
