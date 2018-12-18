@@ -10,6 +10,5 @@
 
 # Tutorial 5
 * [Ordinary Differential Equations](http://nbviewer.jupyter.org/github/OpenChemE/Tutorials-2018W2/blob/master/Notebooks/Tutorial%205/Ordinary%20Differential%20Equations.ipynb)
-* [Projectile motion system of ODES](http://nbviewer.jupyter.org/github/OpenChemE/Tutorials-2018W2/blob/master/Notebooks/Tutorial%205/Projectile%20motion%20system%20of%20ODES.ipynb)
 
 
